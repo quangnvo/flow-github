@@ -1,0 +1,1 @@
+console.log("tinh nang header2.js")
